@@ -1,0 +1,8 @@
+X:\VisualStudio\Source\Projects\CopartFeesGUI\CopartFeesGUI\bin\Release\CopartFeesGUI.exe.config
+X:\VisualStudio\Source\Projects\CopartFeesGUI\CopartFeesGUI\bin\Release\CopartFeesGUI.exe
+X:\VisualStudio\Source\Projects\CopartFeesGUI\CopartFeesGUI\bin\Release\CopartFeesGUI.pdb
+X:\VisualStudio\Source\Projects\CopartFeesGUI\CopartFeesGUI\obj\Release\CopartFeesGUI.Form1.resources
+X:\VisualStudio\Source\Projects\CopartFeesGUI\CopartFeesGUI\obj\Release\CopartFeesGUI.Properties.Resources.resources
+X:\VisualStudio\Source\Projects\CopartFeesGUI\CopartFeesGUI\obj\Release\CopartFeesGUI.csproj.GenerateResource.Cache
+X:\VisualStudio\Source\Projects\CopartFeesGUI\CopartFeesGUI\obj\Release\CopartFeesGUI.exe
+X:\VisualStudio\Source\Projects\CopartFeesGUI\CopartFeesGUI\obj\Release\CopartFeesGUI.pdb
